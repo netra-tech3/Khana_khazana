@@ -1,0 +1,36 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.navbar .logo{
+    width: 150px; /* Set the desired width */
+    height: 150px; /* Set the desired height */
+    border-radius: 20%; /* This makes the div circular */
+    background-color: #c22662; /* Set the background color */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(197, 155, 19);
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin-bottom: 0px;
+}
+ 
+
+.navbar .text{
+ margin-left: -150px;
+ font-size: 40px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-style: italic;
+ color:#ff914d;
+ 
+}
+
+
+.navbar .profile{
+    width: 40px;
+
+}
